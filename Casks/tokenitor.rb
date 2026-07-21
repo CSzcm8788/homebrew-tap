@@ -1,6 +1,6 @@
 cask "tokenitor" do
-  version "1.5.1"
-  sha256 "fe0f7b98a90b60cdb4051bc32cff54173f3f3acced442792942a6d0457602211"
+  version "1.5.2"
+  sha256 "4b4ba95be637977f560a1f42ae5010488fc11c3c8bcdbb27cc98261cc4fa2a26"
 
   url "https://github.com/CSzcm8788/Tokenitor/releases/download/v#{version}/Tokenitor.dmg"
   name "Tokenitor"
